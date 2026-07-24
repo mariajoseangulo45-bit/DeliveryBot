@@ -311,13 +311,21 @@ Actualizar sesión
 Puedes agregar imágenes como:
 
 ```
-images/inicio.png
+telegram.png
 
-images/menu.png
+telegram1.png
 
-images/productos.png
+telegram2.png
 
-images/carrito.png
+telegram3.png
+
+telegram4.png
+
+sheets.png
+
+sheets1.png
+
+sheets2.png
 ```
 
 ---
