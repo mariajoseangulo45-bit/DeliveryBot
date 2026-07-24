@@ -308,9 +308,6 @@ Actualizar sesión
 
 ## 📸 Capturas
 
-Puedes agregar imágenes como:
-
-```
 ## Menú Principal
 
 ![Menú](telegram.png)
@@ -331,7 +328,6 @@ Puedes agregar imágenes como:
 
 ![Seguimiento](telegram4.png)
 
-```
 
 ---
 
