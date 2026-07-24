@@ -311,7 +311,8 @@ Actualizar sesión
 Puedes agregar imágenes como:
 
 ```
-DeliveryBot/telegram.png
+
+![Menú](telegram.png)
 
 telegram1.png
 
