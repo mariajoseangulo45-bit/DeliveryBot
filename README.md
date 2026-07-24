@@ -311,22 +311,26 @@ Actualizar sesión
 Puedes agregar imágenes como:
 
 ```
+## Menú Principal
 
-![Menú](imagenes/telegram.png)
+![Menú](telegram.png)
 
-telegram1.png
+## Agregar al carrito
 
-telegram2.png
+![Carrito](telegram1.png)
 
-telegram3.png
+## Confirmación
 
-telegram4.png
+![Confirmación](telegram2.png)
 
-sheets.png
+## Historial
 
-sheets1.png
+![Historial](telegram3.png)
 
-sheets2.png
+## Seguimiento
+
+![Seguimiento](telegram4.png)
+
 ```
 
 ---
