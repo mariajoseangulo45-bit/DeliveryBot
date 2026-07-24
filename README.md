@@ -312,7 +312,7 @@ Puedes agregar imágenes como:
 
 ```
 
-![Menú](telegram.png)
+![Menú](imagenes/telegram.png)
 
 telegram1.png
 
