@@ -63,7 +63,35 @@ Guarda la sesión de cada usuario.
 | ultimo_cambio |
 
 ---
+### USUARIO
 
+Guarda la sesión de cada usuario.
+
+| Campo |
+|--------|
+| telegram_id |
+| nombre_completo |
+| fecha_-registro |
+| ultimo_pedido |
+
+---
+
+### PEDIDO
+
+Guarda la sesión de cada usuario.
+
+| Campo |
+|--------|
+| id_pedido |
+| telegram_id |
+| nombre_usuario |
+| detalles_pedido |
+| total_pago |
+| ESTADO |
+| fecha |
+| hora |
+
+---
 ## 📱 Flujo del Bot
 
 ```
@@ -215,8 +243,7 @@ DeliveryBot/
 │
 ├── README.md
 ├── workflow.json
-├── docs/
-└── images/
+
 ```
 
 ---
@@ -310,7 +337,7 @@ images/carrito.png
 
 ## 👨‍💻 Autor
 
-Desarrollado por **Majo**
+Desarrollado por **Maria Jose ANGULO**
 
 Proyecto académico desarrollado en **n8n** utilizando Telegram y Google Sheets.
 
